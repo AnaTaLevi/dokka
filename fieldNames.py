@@ -1,0 +1,8 @@
+ADDRESS = 'address'
+LONG_LABEL = 'LongLabel'
+POINTS = 'points'
+LINKS = 'links'
+NAME = 'name'
+DISTANCE = 'distance'
+RESULT_ID = 'result_id'
+JSON = 'json'
